@@ -7,18 +7,6 @@ const App = () => {
   return (
     <>
     <Snake />
-      // <Router>
-        // <div>
-        //   {/* <Link to={"/"}></Link> */}
-        //   <Signup />
-        // </div>
-        // <Routes>
-        //   <Route path='/login' element={<LogIn />} />
-        //   {/* <Route path='/' element={<Signup />} /> */}
-        // </Routes>
-      // </Router>
-
-
     </>
   )
 }
